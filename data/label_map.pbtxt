@@ -1,0 +1,40 @@
+item {
+  id: 1
+  name: 'rice'
+}
+
+item {
+  id: 2
+  name: 'rect'
+}
+
+item {
+  id: 3
+  name: 'msquare'
+}
+
+item {
+  id: 4
+  name: 'soup'
+}
+
+item {
+  id: 5
+  name: 'ellipse'
+}
+
+item {
+  id: 6
+  name: 'lsquare'
+}
+
+item {
+  id: 7
+  name: 'bsquare'
+}
+
+item {
+  id: 8
+  name: 'lcir'
+}
+
